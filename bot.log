@@ -1,0 +1,122 @@
+2024-08-21T11:39:13.628Z [error]: Error while fetching prices or sending message: request to https://api.telegram.org/bot7325664597:[REDACTED]/sendMessage failed, reason: getaddrinfo EAI_AGAIN api.telegram.org
+2024-08-21T11:39:47.118Z [info]: Start command triggered by user
+2024-08-21T11:39:47.119Z [info]: Fetching price details concurrently
+2024-08-21T11:39:47.119Z [error]: Error while fetching price for SOL/USDT
+2024-08-21T11:39:47.119Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method request timed out (10000 ms)
+2024-08-21T11:39:47.119Z [error]: Error while fetching price for BTC/USDT
+2024-08-21T11:39:47.119Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method request timed out (10000 ms)
+2024-08-21T11:39:47.119Z [error]: Error while fetching price for ETH/USDT
+2024-08-21T11:39:47.119Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method request timed out (10000 ms)
+2024-08-21T11:39:47.119Z [info]: Sending price details to the user
+2024-08-21T11:40:03.552Z [info]: Bot created.
+2024-08-21T11:40:03.556Z [info]: Bot stated launched successfully.
+2024-08-21T11:40:04.373Z [info]: Bot created.
+2024-08-21T11:40:04.376Z [info]: Bot stated launched successfully.
+2024-08-21T11:40:34.961Z [info]: Start command triggered by user
+2024-08-21T11:40:34.962Z [info]: Fetching price details concurrently
+2024-08-21T11:40:59.505Z [info]: Returning price for SOL/USDT
+2024-08-21T11:41:00.165Z [info]: Returning price for BTC/USDT
+2024-08-21T11:41:00.827Z [info]: Returning price for ETH/USDT
+2024-08-21T11:41:00.827Z [info]: Sending price details to the user
+2024-08-21T11:41:38.471Z [info]: Bot created.
+2024-08-21T11:41:38.474Z [info]: Bot stated launched successfully.
+2024-08-21T11:41:47.393Z [info]: Bot created.
+2024-08-21T11:41:47.397Z [info]: Bot stated launched successfully.
+2024-08-21T11:42:13.110Z [info]: Bot created.
+2024-08-21T11:42:13.113Z [info]: Bot stated launched successfully.
+2024-08-21T11:42:38.929Z [info]: Bot created.
+2024-08-21T11:42:38.932Z [info]: Bot stated launched successfully.
+2024-08-21T11:42:40.419Z [info]: Bot created.
+2024-08-21T11:42:40.422Z [info]: Bot stated launched successfully.
+2024-08-21T11:42:43.976Z [info]: Bot created.
+2024-08-21T11:42:43.979Z [info]: Bot stated launched successfully.
+2024-08-21T11:44:04.767Z [info]: Bot created.
+2024-08-21T11:44:04.772Z [info]: Bot stated launched successfully.
+2024-08-21T11:44:21.952Z [info]: Bot created.
+2024-08-21T11:44:21.955Z [info]: Bot stated launched successfully.
+2024-08-21T11:44:26.703Z [info]: Bot created.
+2024-08-21T11:44:26.706Z [info]: Bot stated launched successfully.
+2024-08-21T11:44:42.448Z [info]: Bot created.
+2024-08-21T11:44:42.463Z [info]: Bot stated launched successfully.
+2024-08-21T11:44:49.580Z [info]: Bot created.
+2024-08-21T11:44:49.583Z [info]: Bot stated launched successfully.
+2024-08-21T11:44:54.963Z [info]: Bot created.
+2024-08-21T11:44:54.966Z [info]: Bot stated launched successfully.
+2024-08-21T11:44:58.670Z [info]: Bot created.
+2024-08-21T11:44:58.673Z [info]: Bot stated launched successfully.
+2024-08-21T11:45:01.338Z [info]: Bot created.
+2024-08-21T11:45:01.341Z [info]: Bot stated launched successfully.
+2024-08-21T11:45:10.685Z [info]: Bot created.
+2024-08-21T11:45:10.688Z [info]: Bot stated launched successfully.
+2024-08-21T11:45:11.936Z [info]: Bot created.
+2024-08-21T11:45:11.939Z [info]: Bot stated launched successfully.
+2024-08-21T11:45:13.131Z [info]: Bot created.
+2024-08-21T11:45:13.135Z [info]: Bot stated launched successfully.
+2024-08-21T11:45:27.555Z [info]: Bot created.
+2024-08-21T11:45:27.558Z [info]: Bot stated launched successfully.
+2024-08-21T11:45:45.365Z [info]: Bot created.
+2024-08-21T11:45:45.369Z [info]: Bot stated launched successfully.
+2024-08-21T11:45:46.998Z [info]: Bot created.
+2024-08-21T11:45:47.002Z [info]: Bot stated launched successfully.
+2024-08-21T11:45:49.300Z [info]: Bot created.
+2024-08-21T11:45:49.304Z [info]: Bot stated launched successfully.
+2024-08-21T11:46:02.094Z [info]: Start command triggered by user
+2024-08-21T11:46:02.095Z [info]: Fetching price details concurrently
+2024-08-21T11:46:22.138Z [error]: Error while fetching price for SOL/USDT
+2024-08-21T11:46:22.139Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method fetch failed
+2024-08-21T11:46:22.139Z [error]: Error while fetching price for BTC/USDT
+2024-08-21T11:46:22.139Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method fetch failed
+2024-08-21T11:46:22.140Z [error]: Error while fetching price for ETH/USDT
+2024-08-21T11:46:22.141Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method fetch failed
+2024-08-21T11:46:22.141Z [info]: Sending price details to the user
+2024-08-21T11:47:04.250Z [info]: Bot created.
+2024-08-21T11:47:04.253Z [info]: Bot stated launched successfully.
+2024-08-21T11:47:20.308Z [info]: Bot created.
+2024-08-21T11:47:20.312Z [info]: Bot stated launched successfully.
+2024-08-21T11:47:43.740Z [info]: Bot created.
+2024-08-21T11:47:43.757Z [info]: Bot stated launched successfully.
+2024-08-21T11:48:14.802Z [info]: Bot created.
+2024-08-21T11:48:14.806Z [info]: Bot stated launched successfully.
+2024-08-21T11:48:37.899Z [info]: Bot created.
+2024-08-21T11:48:37.909Z [info]: Bot stated launched successfully.
+2024-08-21T11:48:46.819Z [info]: Start command triggered by user
+2024-08-21T11:48:46.820Z [info]: Fetching price details concurrently
+2024-08-21T11:49:08.025Z [info]: Bot created.
+2024-08-21T11:49:08.028Z [info]: Bot stated launched successfully.
+2024-08-21T11:49:28.848Z [info]: Bot created.
+2024-08-21T11:49:28.853Z [info]: Bot stated launched successfully.
+2024-08-21T11:50:43.116Z [info]: Bot created.
+2024-08-21T11:50:43.119Z [info]: Bot launched successfully.
+2024-08-21T11:50:44.975Z [info]: Start command triggered by user
+2024-08-21T11:50:44.975Z [info]: Fetching price details concurrently
+2024-08-21T11:50:44.976Z [info]: Start command triggered by user
+2024-08-21T11:50:44.977Z [info]: Fetching price details concurrently
+2024-08-21T11:50:44.977Z [info]: Start command triggered by user
+2024-08-21T11:50:44.977Z [info]: Fetching price details concurrently
+2024-08-21T11:51:15.014Z [error]: Error while fetching price for SOL/USDT
+2024-08-21T11:51:15.015Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method request timed out (30000 ms)
+2024-08-21T11:51:15.015Z [error]: Error while fetching price for BTC/USDT
+2024-08-21T11:51:15.015Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method request timed out (30000 ms)
+2024-08-21T11:51:15.016Z [error]: Error while fetching price for ETH/USDT
+2024-08-21T11:51:15.016Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method request timed out (30000 ms)
+2024-08-21T11:51:15.016Z [error]: Error while fetching price for SOL/USDT
+2024-08-21T11:51:15.016Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method request timed out (30000 ms)
+2024-08-21T11:51:15.016Z [error]: Error while fetching price for BTC/USDT
+2024-08-21T11:51:15.016Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method request timed out (30000 ms)
+2024-08-21T11:51:15.016Z [error]: Error while fetching price for ETH/USDT
+2024-08-21T11:51:15.016Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method request timed out (30000 ms)
+2024-08-21T11:51:15.016Z [error]: Error while fetching price for SOL/USDT
+2024-08-21T11:51:15.016Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method request timed out (30000 ms)
+2024-08-21T11:51:15.016Z [error]: Error while fetching price for BTC/USDT
+2024-08-21T11:51:15.016Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method request timed out (30000 ms)
+2024-08-21T11:51:15.016Z [error]: Error while fetching price for ETH/USDT
+2024-08-21T11:51:15.017Z [error]: bitfinex2 GET https://api-pub.bitfinex.com/v2/conf/pub:list:currency,pub:map:currency:sym,pub:map:currency:label,pub:map:currency:unit,pub:map:currency:undl,pub:map:currency:pool,pub:map:currency:explorer,pub:map:currency:tx:fee,pub:map:tx:method request timed out (30000 ms)
+2024-08-21T11:51:15.017Z [info]: Sending price details to the user
+2024-08-21T11:51:15.017Z [info]: Sending price details to the user
+2024-08-21T11:51:15.017Z [info]: Sending price details to the user
+2024-08-21T11:51:40.042Z [error]: Error while fetching prices or sending message: request to https://api.telegram.org/bot7325664597:[REDACTED]/sendMessage failed, reason: getaddrinfo EAI_AGAIN api.telegram.org
+2024-08-21T11:51:40.045Z [error]: Error while fetching prices or sending message: request to https://api.telegram.org/bot7325664597:[REDACTED]/sendMessage failed, reason: getaddrinfo EAI_AGAIN api.telegram.org
+2024-08-21T11:53:10.455Z [info]: Bot created.
+2024-08-21T11:53:10.458Z [info]: Bot launched successfully.
+2024-08-21T11:53:31.130Z [info]: Bot created.
+2024-08-21T11:53:31.133Z [info]: Bot launched successfully.
